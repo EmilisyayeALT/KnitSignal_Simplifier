@@ -14,7 +14,6 @@ local signal = Signal:GetSignal("AddCash")
 
 signal:connect(function()
 
-    -- your code
 
 end)
 '''
