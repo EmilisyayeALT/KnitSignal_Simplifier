@@ -11,8 +11,11 @@ To create a listener, you would need the GetSignal and Fire. In one code, younwi
 
 '''
 local signal = Signal:GetSignal("AddCash")
+
 signal:connect(function()
+
     -- your code
+
 end)
 '''
 
